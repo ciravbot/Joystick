@@ -13,5 +13,3 @@ A custom made joystick controller with a bluetooth reciever, speakers over a USB
   <li>M4 bolts
   <li>USB-B cable (<a href="https://www.amazon.com/dp/B07KXSBB5P" target="_blank">such as 15FT USB Printer Cable USB 2.0 to Type A male</a>)
 </ul>
-
-<p>Check out <a href="https://www.freecodecamp.org/" target="_blank" rel="noopener noreferrer">freeCodeCamp</a>.</p>
