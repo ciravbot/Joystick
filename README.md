@@ -11,5 +11,5 @@ A custom made joystick controller with a bluetooth reciever, speakers over a USB
   <li><a href="https://www.amazon.com/gp/product/B0042GWIZI">Dayton Audio ND65-8 2-1/2"</a>
   <li>M3 bolts
   <li>M4 bolts
-  <li>USB-B cable
+  <li>USB-B cable (<a href="https://www.amazon.com/dp/B07KXSBB5P">such as 15FT USB Printer Cable USB 2.0 to Type A male</a>)
 </ul>
