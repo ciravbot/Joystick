@@ -6,6 +6,10 @@ A custom made joystick controller with a bluetooth reciever, speakers over a USB
 <br><br>
 <h3><b><u>Bill of Materials</u></b></h3>
 <ul>
-  <li>string
-  <li>ooze
+  <li><a href="https://www.amazon.com/dp/B08Z3FBSDT">MakerHawk Mini Amplifier Board Bluetooth Amplifier</a>
+  <li><a href="https://www.amazon.com/dp/B00WAY9848">Easyget LED Arcade DIY Parts</a>
+  <li><a href="https://www.amazon.com/gp/product/B0042GWIZI">Dayton Audio ND65-8 2-1/2"</a>
+  <li>M3 bolts
+  <li>M4 bolts
+  <li>USB-B cable
 </ul>
