@@ -13,3 +13,7 @@ A custom made joystick controller with a bluetooth reciever, speakers over a USB
   <li>M4 bolts
   <li>USB-B cable (<a href="https://www.amazon.com/dp/B07KXSBB5P" target="_blank">such as 15FT USB Printer Cable USB 2.0 to Type A male</a>)
 </ul>
+<br><br>
+<h3><b><u>Known Bugs</u></b></h3>
+<ul>
+  <li>The hole for the bluetooth volume knob is too small for the selected part.  (How did I manage that?)
