@@ -3,7 +3,7 @@ A custom made joystick controller with a bluetooth reciever, speakers over a USB
 <br><br>
 <h3><b><u>Design</u></b></h3>
 <img align="center" height="50%" width="50%"src="joystick.png">
-<br><br>
+<br>
 <h3><b><u>Bill of Materials</u></b></h3>
 <ul>
   <li><a href="https://www.amazon.com/dp/B08Z3FBSDT" target="_blank" rel="noopener noreferrer">MakerHawk Mini Amplifier Board Bluetooth Amplifier</a>
@@ -13,7 +13,7 @@ A custom made joystick controller with a bluetooth reciever, speakers over a USB
   <li>M4 bolts
   <li>USB-B cable (<a href="https://www.amazon.com/dp/B07KXSBB5P" target="_blank">such as 15FT USB Printer Cable USB 2.0 to Type A male</a>)
 </ul>
-<br><br>
+<br>
 <h3><b><u>Known Bugs</u></b></h3>
 <ul>
   <li>The hole for the bluetooth volume knob is too small for the selected part.  (How did I manage that?)
