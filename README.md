@@ -23,4 +23,5 @@ A custom made joystick controller with a bluetooth reciever, speakers over a USB
 <ul>
   <li>Left Joystick - Bluetooth volume knob hole was 5mm, changed to 6mm.
   <li>Left and Right Front - The small button hole was 20mm, changed to 24mm.
+  <li>Right Under Panel = Widened the USB-B hole from 10mm to 11mm.
 </ul>
