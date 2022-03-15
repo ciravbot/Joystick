@@ -17,3 +17,10 @@ A custom made joystick controller with a bluetooth reciever, speakers over a USB
 <h3><b><u>Known Bugs</u></b></h3>
 <ul>
   <li>The hole for the bluetooth volume knob is too small for the selected part.  (How did I manage that?)
+</ul>
+<br>
+<h3><b><u>Bug Fixes</u></b></h3>
+<ul>
+  <li>Left Joystick - Bluetooth volume knob hole was 5mm, changed to 6mm.
+  <li>Left and Right Front - The small button hole was 20mm, changed to 24mm.
+</ul>
